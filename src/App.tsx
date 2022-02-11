@@ -1,6 +1,5 @@
-import React, { FC } from "react";
-
 import Counter from "./components/Counter";
+import { FC } from "react";
 
 const App: FC = () => {
   return (
